@@ -18,7 +18,7 @@ Extrofitted GloVe (glove.42B.300d), which is used for the experiment, can be dow
 : https://drive.google.com/open?id=1R82TOyAmOgaAjCVrvUfBlJPJaTD5x28a
 
 ## Reference
-If you use this algorithm on your pretrained word vector, please cite the following paper:
+If you use this algorithm on your research, please cite the following paper:
 ```
 TBU
 ```
